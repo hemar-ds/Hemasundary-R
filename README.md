@@ -1,6 +1,6 @@
 
 # ***About Me!***:writing_hand:<br />
-* Continuous learner and explore Data Science and Machine Learning <br />
+* Continuous learner and exploring Data Science and Machine Learning <br />
 * Natural Language processing
 * Transformers and Transfer learning
 * Time series<br />
